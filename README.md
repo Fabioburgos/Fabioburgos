@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fabioburgos
-- 👀 I’m interested in working as Data scientist and Machine Learning engineer
-- 🌱 I’m currently learning Data science, Machine Learning and Notion
-- 💞️ I’m looking to collaborate on Data Sciente projects and Machine learning as well.
+- 👀 I’m Machine Learning Engineer
+- 🌱 I’m Data Scientist
+- 💞️ I’m Commercial pilot with Instruments rating and Airbus A320 family copilot rated
 - 📫 How to reach me: Writte me please to fabio.burgos@correounivalle.edu.co
 
 <!---
